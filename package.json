@@ -1,13 +1,13 @@
 {
-  "name" : "website-using-express",
-  "version" : "0.0.1",
-  "scripts" : {
-    "start" : "node Server.js"
+  "name": "website-using-express",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node Server.js"
   },
-  "dependencies" : {
-    "express" : "latest"
-	"gitlab" : "latest"
-	"popper.js" : "latest"
-	"jquery" : "latest"
+  "dependencies": {
+    "express": "latest",
+    "gitlab": "^6.3.7",
+    "jquery": "latest",
+    "popper.js": "latest"
   }
 }
