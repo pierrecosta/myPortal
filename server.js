@@ -43,7 +43,7 @@ const api = new Gitlab({
 })
 
 // Listing users
-let users = await api.Users.all();
+//let users = await api.Users.all();
  
 // Or using Promise-Then notation
 api.Projects.all().then(projects => {
