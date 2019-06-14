@@ -6,5 +6,8 @@
   },
   "dependencies" : {
     "express" : "latest"
+	"gitlab" : "latest"
+	"popper.js" : "latest"
+	"jquery" : "latest"
   }
 }
